@@ -1,6 +1,3 @@
-from locale import currency
-
-
 class NodeTabungan:
     no_rekening = None
     nama = None
